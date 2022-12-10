@@ -1,0 +1,17 @@
+.container ul {
+    display: flex; 
+     list-style: none;
+    justify-content: space-around;
+    
+}
+.container li {
+    /* padding: 40px; */
+}
+.container {
+    width: 100vw;
+    /* border: 1px solid black; */
+    margin: 60px 0px 60px;
+  
+    
+
+}

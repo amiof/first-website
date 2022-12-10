@@ -1,0 +1,28 @@
+.container  img {
+   width: 100vw;
+   height: 89.1vh;
+   
+   
+   
+}
+.container {
+    position: relative;
+
+}
+.header {
+    position: absolute;
+    top: 200px;
+    left: 80px;
+}
+.header h2 {
+    color: #ffffff;
+    font-size: 4rem;
+}
+.header p {
+    font-size: 2.5rem;
+    color: #ffffff;
+    margin: 40px ;
+}
+.header span {
+    color: aqua;
+}
